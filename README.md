@@ -8,7 +8,7 @@ Dependencias utilizadas en la aplciacion:
 
 para instalarlas automaticamente ejecutar npm i
 
-script creacion db:
+script creacion db en mysql:
 CREATE DATABASE db_pt;
 USE db_pt;
 CREATE TABLE `users` (
